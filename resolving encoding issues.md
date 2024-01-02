@@ -1,4 +1,4 @@
-## Encoding is the process of converting data from one form to another, often for the purpose of storage or transmission. In the context of text and characters, encoding refers to representing textual data in a specific format or scheme. Different encoding types are used to handle various character sets and symbols. Here are some common encoding types:
+#### Encoding is the process of converting data from one form to another, often for the purpose of storage or transmission. In the context of text and characters, encoding refers to representing textual data in a specific format or scheme. Different encoding types are used to handle various character sets and symbols. Here are some common encoding types:
 
 1. **ASCII (American Standard Code for Information Interchange):**
    - Standard encoding for English characters and basic symbols.
